@@ -1,0 +1,11 @@
+INSERT INTO tb_livro (titulo, escritor, sinopse, capa) VALUES
+('Dom Casmurro', 'Machado de Assis', 'Um romance clássico da literatura brasileira que explora temas como ciúme, memória e dúvida sobre a traição de Capitu.', 'https://covers.openlibrary.org/b/isbn/9788520933108-L.jpg'),
+('O Senhor dos Anéis: A Sociedade do Anel', 'J. R. R. Tolkien', 'Primeiro volume da trilogia, acompanhando Frodo e a Sociedade em sua missão de destruir o Um Anel.', 'https://covers.openlibrary.org/b/isbn/9780547928210-L.jpg'),
+('1984', 'George Orwell', 'Um romance distópico sobre um regime totalitário que controla todos os aspectos da vida e manipula a verdade.', 'https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg'),
+('O Pequeno Príncipe', 'Antoine de Saint-Exupéry', 'A clássica fábula filosófica sobre amizade, amor e a essência da vida, contada pelo encontro de um aviador com um príncipe vindo de outro planeta.', 'https://covers.openlibrary.org/b/isbn/9780156013987-L.jpg'),
+('Harry Potter e a Pedra Filosofal', 'J. K. Rowling', 'O primeiro livro da saga do jovem bruxo Harry Potter, que descobre seu destino mágico em Hogwarts.', 'https://covers.openlibrary.org/b/isbn/9780747532699-L.jpg'),
+('A Revolução dos Bichos', 'George Orwell', 'Uma alegoria política em que animais de uma fazenda se revoltam contra os humanos, mas criam um novo regime igualmente opressor.', 'https://covers.openlibrary.org/b/isbn/9780451526342-L.jpg'),
+('O Hobbit', 'J. R. R. Tolkien', 'As aventuras de Bilbo Bolseiro ao acompanhar anões em sua jornada para recuperar o tesouro guardado pelo dragão Smaug.', 'https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg'),
+('Orgulho e Preconceito', 'Jane Austen', 'Romance sobre classe social, casamento e preconceito na Inglaterra do século XIX.', 'https://covers.openlibrary.org/b/isbn/9780141439518-L.jpg'),
+('A Menina que Roubava Livros', 'Markus Zusak', 'Narrada pela Morte, conta a história de Liesel durante a Alemanha nazista e o poder transformador da leitura.', 'https://covers.openlibrary.org/b/isbn/9780375842207-L.jpg'),
+('Crime e Castigo', 'Fiódor Dostoiévski', 'Romance psicológico que explora a mente de um jovem estudante que comete um assassinato e enfrenta dilemas morais e existenciais.', 'https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg');
